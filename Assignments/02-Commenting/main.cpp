@@ -1,15 +1,15 @@
-/*******************************************
-*										                       *
-* Author:      Khethulwazi Kunene		       *
-* Email:       khethokunene@gmail.com	     *
-* Label:       A02						             *
-* Title:       commenting				           *
-* Course:      CMPS 3013				           *
-* Semester:    Spring 2020				         *
-*										                       *
-* Description: create appropriate comments *
-*			         for code provided.		       *
-*******************************************/
+/********************************************
+*					    *
+* Author:      Khethulwazi Kunene	    *
+* Email:       khethokunene@gmail.com	    *
+* Label:       A02			    *
+* Title:       commenting		    *
+* Course:      CMPS 3013		    *
+* Semester:    Spring 2020		    *
+*					    *
+* Description: create appropriate comments  *
+*	       for code provided.           *
+********************************************/
 #include <iostream>
 
 using namespace std;
