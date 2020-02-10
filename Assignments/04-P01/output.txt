@@ -1,0 +1,11 @@
+Result for nums.dat
+
+============================================
+Assignment 4 - Resizing the Stack
+CMPS 3013
+Khethulwazi Kunene
+
+Max Stack Size: 640
+End Stack Size: 640
+Stack Resized: 1904 times
+============================================
