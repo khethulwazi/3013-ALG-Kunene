@@ -17,8 +17,8 @@
 - 8A)
 ```cpp
 //A
-for (int I = 0; I < n; I++)
-    for (int j = 1; j < n; j++)
+for (int I = 0; I < n; I++) //O(n)
+    for (int j = 1; j < n; j++) //O(n)
         {some_statement;}
 //Answer
 The statement will be executed (N^2 - N) times        
@@ -26,8 +26,8 @@ The statement will be executed (N^2 - N) times
 - 8B)
 ```cpp
 //B
-for (int I = 0; I < n; I +=2)
-    for (int j = 1; j < n; j++)
+for (int I = 0; I < n; I +=2)   //O(n/2)
+    for (int j = 1; j < n; j++) //O(n)
         {some_statement;}
 //Answer        
 The statement will be executed (N^2 - N)/2 times        
@@ -36,8 +36,8 @@ The statement will be executed (N^2 - N)/2 times
 - 8C)
 ```cpp
 //C
-for (int j = 1 ; j < n ; j *= 2)
-    for (int I = 1; i<n; i++)
+for (int j = 1 ; j < n ; j *= 2) //O(log n)
+    for (int I = 1; i<n; i++)    //O(n)
         {some_statement;} 
 //Answer        
 The statement will be executed (N^2 - 2N + 1)/2 times      
