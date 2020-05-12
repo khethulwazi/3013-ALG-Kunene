@@ -1,7 +1,6 @@
 ## Assignments
 | Assignment ID | Assignment    | Description                    | Due                                 |
 | ------------- | ------------- | ------------------------------ | ----------------------------------- |
-| 01-A01        | Assignment 1  | Getting Started                | 01-23-2020 (Friday @ 5:00 p.m.)     |
 | 02-A02        | Assignment 2  | Commenting C++ Code            | 01-27-2020 (Monday @ 3:30 p.m.)     |
 | 03-H01        | Assignment 3  | Banner Page                    | 01-29-2020 (Wednesday @ 3:30 p.m.)  |
 | 04-P01        | Assignment 4  | Resizing the Stack             | 02-05-2020 (Wednesday @ 3:30 p.m.)  |
