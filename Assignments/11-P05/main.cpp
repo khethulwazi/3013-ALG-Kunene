@@ -1,3 +1,18 @@
+///////////////////////////////////////////////////////////////////////////////
+//
+// Author:           Khethulwazi Kunene
+// Email:            khethokunene@gmail.com
+// Label:            P05
+// Title:            Program 05 - uVa problem 484
+// Course:           3013
+// Semester:         Spring 2020
+//
+// Description:
+//       This program will map the number of occurences of a 
+//       specified integer and dispay a reference table as an
+//       output with the integer on the left and appearances on the right
+//
+/////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 #include <map>
 #include <vector>
